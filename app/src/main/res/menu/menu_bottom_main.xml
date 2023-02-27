@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menuHomeFragment"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/white"
+        android:title="Home">
+
+    </item>
+
+    <item
+        android:id="@+id/menuSearchFragment"
+        android:icon="@drawable/ic_search"
+        android:iconTint="@color/white"
+        android:title="Pesquisar">
+    </item>
+
+    <item
+        android:id="@+id/placeHolder"
+        android:title=""
+        android:enabled="false">
+    </item>
+
+
+    <item
+        android:id="@+id/menuProfilePreference"
+        android:icon="@drawable/ic_person"
+        android:iconTint="@color/white"
+        android:title="Perfil">
+    </item>
+
+    <item
+        android:id="@+id/lock"
+        android:icon="@drawable/ic_lock"
+        android:iconTint="@color/white"
+        android:title="Lock">
+    </item>
+
+
+</menu>

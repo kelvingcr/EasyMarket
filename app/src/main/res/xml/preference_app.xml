@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Configurações do Sistema"
+        app:iconSpaceReserved="false">
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="onModeNight"
+        android:title="Modo escuro"
+        app:iconSpaceReserved="true"
+        app:icon="@drawable/ic_night"
+
+        />
+
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">EasyMarket</string>
+
+    <!--   Generics  -->
+    <string name="subtitle">Seu aplicativo para facilitar suas compras.</string>
+    <string name="new_purchase">New Purchase</string>
+    <string name="purchase">Purchase</string>
+    <string name="error_generic">Ocorreu um erro, por favor tente novamente mais tarde.</string>
+    <string name="loginOrRegister">Faça o login ou registra-se.</string>
+    <string name="onFieldError">Campo obrigatorio.</string>
+    <string name="onSu">Campo obrigatorio.</string>
+
+
+    <string name="title_activity_auth">AuthActivity</string>
+
+    <!--    Login & Register Fragment  -->
+    <string name="type_your_email">Digite seu e-mail</string>
+    <string name="type_your_password">Digite sua senha</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="btnRegister">Registra-se</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="create_a_new_account">Crie uma nova conta</string>
+
+    <!--    Erros Firebase Authentication  -->
+    <string name="account_not_registered_register_fragment">Nenhuma conta encontrada com este e-mail.</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido.</string>
+    <string name="invalid_password_register_fragment">Senha inválida, tente novamente.</string>
+    <string name="email_in_use_register_fragment">Este e-mail já está em uso.</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte.</string>
+
+
+    <string name="total_spent_on_shopping">Total gasto em compras:</string>
+    <string name="loading_values">Carregando...</string>
+    <string name="edt_name_product">Nome do produto</string>
+    <string name="edt_price_product">Preço do produto</string>
+    <string name="edt_purchase_name">Nome da compra</string>
+    <string name="tv_not_found_purchase">Não foi encontrado nenhuma compra.</string>
+    <string name="sv_search">Procurar por ...</string>
+
+
+</resources>

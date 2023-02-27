@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239417082275",
+    "project_id": "easymarket-27004",
+    "storage_bucket": "easymarket-27004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239417082275:android:402a33b42b94ada1871a16",
+        "android_client_info": {
+          "package_name": "com.kelvingcr.easymarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239417082275-g05rv24ccabqbd1b6vqhlftnr68gdg8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBN01YdISSK3MQWpkQqFuWYdO-u5_Snxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239417082275-g05rv24ccabqbd1b6vqhlftnr68gdg8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
