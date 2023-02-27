@@ -81,6 +81,15 @@ Na imagem mostra que, é possivel o usuário fazer o login em uma conta já exis
 Nessa tela exibi para o usúario sua lista de compras salvas. Cada usúario possue uma lista individual.
 Também é possivel visualizar as informações de uma compra já existente.
 
+### Preference Screen - Modo Noturno
+
+<p float="left" align="start">
+  <img src="https://i.imgur.com/89gSCKW.png" width="25%"/>
+
+</p>
+
+Nessa tela você pode escolher o tema de sua preferencia, escuro ou claro.
+
 # Licença
 ```xml
 
